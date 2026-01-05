@@ -8,9 +8,6 @@ I have completed my Bachelor's degree and I am planning to start a Master's prog
 - 🎓 I completed my bachelor degree in July 2024
 - 🏔️ Outdoor activites enthusiast (hiking, biking, ...)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamBachmann&show_icons=true&theme=tokyonight)
-
 
 Thanks for stopping by! 🌟
 
