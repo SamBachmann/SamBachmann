@@ -1,6 +1,6 @@
 ## Hi there, I'm Sam 👋 
 
-I have completed my Bachelor's degree and I am planning to start a Master's program at EPFL.
+I'm a MSc computer scientist student @ EPFL.
 
 ## 📝 Few words about me
 - 🇨🇭 Living in Switzerland
